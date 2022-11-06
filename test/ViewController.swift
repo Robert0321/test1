@@ -14,7 +14,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         
         var pen = "Pen"
-        print("pen is \(pen)")
+        print("pen is \(pen) ___ 11111111")
     }
 
 
